@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1592950344 source:c:\users\edouard\documents\c++\hexa\src\hexa.cpp
+	"Hexa.h"
+
+1592687064 c:\users\edouard\documents\c++\hexa\include\hexa.h
+	<stdint.h>
+	<iostream>
+	"Position.h"
+	"Point.h"
+
+1592656804 source:c:\users\edouard\documents\c++\hexa\src\position.cpp
+	"Position.h"
+
+1592656798 c:\users\edouard\documents\c++\hexa\include\position.h
+	<stdint.h>
+	<iostream>
+
+1593106823 source:c:\users\edouard\documents\c++\hexa\main.cpp
+	<iostream>
+	<stdint.h>
+	"Position.h"
+	"Point.h"
+	"Hexa.h"
+	"Map.h"
+
+1592940739 c:\users\edouard\documents\c++\hexa\include\point.h
+	<stdint.h>
+	<iostream>
+
+1592940729 source:c:\users\edouard\documents\c++\hexa\src\point.cpp
+	"Point.h"
+
+1593106848 c:\users\edouard\documents\c++\hexa\include\map.h
+	<stdint.h>
+	<iostream>
+	<list>
+	<iterator>
+	<algorithm>
+	"Position.h"
+	"Point.h"
+	"Hexa.h"
+
+1593106828 source:c:\users\edouard\documents\c++\hexa\src\map.cpp
+	"Map.h"
+
