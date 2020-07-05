@@ -20,6 +20,7 @@ class Map
 //        void generateMap(uint64_t sz, Hexa* start);
 //        virtual void Update(const Observable* observable) const ;
 
+
         void AddObs(Hexa* obs);
         void DelObs(Hexa* obs);
 
